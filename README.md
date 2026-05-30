@@ -88,36 +88,7 @@ public class Ranushasri {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranushasri-kv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranushasri-kv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=12"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ranushasri-kv&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDAE&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=70A5FD&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranushasri-kv&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true&area_color=38bdae" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranushasri-kv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
