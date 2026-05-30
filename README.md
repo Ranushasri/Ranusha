@@ -1,43 +1,50 @@
-# Ranusha
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ranushasri%20KV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Java%20%7C%20Web%20Dev%20%7C%20QA%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%21+I'm+Ranushasri+KV+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+%2B+Web+Dev;Manual+Testing+%7C+Oracle+SQL+%7C+Git;Building+Real+Projects+%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ranushasri%20KV&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=✨%20Full%20Stack%20Developer%20%7C%20Java%20%7C%20Web%20Dev%20%7C%20QA%20Enthusiast%20✨&descAlignY=65&descSize=17" width="100%"/>
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=38BDAE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=👩‍💻+Aspiring+Full+Stack+Developer;☕+Java+%7C+🌐+Web+Dev+%7C+🗄️+SQL+%7C+🧪+Testing;🚀+Building+Real+Projects%2C+One+Commit+at+a+Time;🌱+Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/ranushasri-kv?label=Followers&style=for-the-badge&color=38bdae&labelColor=0d1117)](https://github.com/ranushasri-kv)
+[![Profile Views](https://komarev.com/ghpvc/?username=ranushasri-kv&label=Profile+Views&color=bf91f3&style=for-the-badge&labelColor=0d1117)](https://github.com/ranushasri-kv)
+
+</div>
+
 ---
 
-## 👩‍💻 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🌟 About Me
 
 ```java
 public class Ranushasri {
 
-    String name        = "Ranushasri KV";
-    String location    = "Tamil Nadu, India";
-    String degree      = "BE - Computer Science & Engineering";
-    String university  = "Anna University (Bharathiyar Institute)";
-    String gpa         = "7.59 / 10";
+  String  name     = "Ranushasri KV";
+  String  from     = "Tamil Nadu, India 🇮🇳";
+  String  degree   = "BE – CSE @ Anna University";
+  String  gpa      = "7.59 / 10";
+  boolean openTo   = true; // internships & opportunities
 
-    String[] stack = {
-        "Core Java", "HTML", "CSS", "JavaScript",
-        "Oracle SQL", "Manual Testing", "Git", "GitHub"
-    };
+  String[] skills = {
+    "Core Java ☕", "HTML/CSS/JS 🌐",
+    "Oracle SQL 🗄️", "Manual Testing 🧪",
+    "Git & GitHub 🐙"
+  };
 
-    String[] currentlyLearning = {
-        "React.js", "Spring Boot", "REST APIs", "DSA"
-    };
+  String[] learning = {
+    "React.js ⚛️", "Spring Boot 🍃",
+    "REST APIs 📡", "DSA 🧠"
+  };
 
-    String funFact = "I debug with console.log and proud of it 😄";
-
-    String motto() {
-        return "Build. Break. Fix. Repeat. 🚀";
-    }
+  String funFact() {
+    return "I debug with console.log 😄";
+  }
+  String motto() {
+    return "Build. Break. Fix. Repeat. 🚀";
+  }
 }
 ```
 
@@ -47,89 +54,96 @@ public class Ranushasri {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 🧪 Testing & QA
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-00897B?style=for-the-badge&logo=checkmarx&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases**
+### ⚙️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+### 🖥️ OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Testing**
-
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6DB33F?style=flat-square&logo=testinglibrary&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Tools & Platforms**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-**Operating Systems**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ranushasri-kv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ranushasri-kv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ranushasri-kv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranushasri-kv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranushasri-kv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranushasri-kv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ranushasri-kv&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDAE&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=70A5FD&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12"/>
 </div>
 
 ---
 
+## 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranushasri-kv&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true&area_color=38bdae" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranushasri-kv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
+</div>
 
 ---
 
 ## 💼 Work Experience
 
 <details>
-<summary><strong>🏢 Nitroware Technologies Pvt Ltd — Full Stack Development Intern &nbsp;|&nbsp; Jun – Jul 2025 &nbsp;|&nbsp; India</strong></summary>
-
+<summary><b>🚀 Nitroware Technologies Pvt Ltd — Full Stack Development Intern &nbsp;|&nbsp; Jun – Jul 2025</b></summary>
 <br/>
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-- Developed and shipped responsive web pages from scratch using HTML, CSS, and JavaScript.
-- Implemented and refined frontend features, improving UI consistency and interactivity.
-- Performed debugging and assisted in deployment activities via GitHub and Netlify.
-- Followed a structured project workflow: requirements → design → testing → deployment.
+- 🌐 Built responsive web pages from scratch using HTML, CSS & JavaScript
+- ✨ Implemented & refined frontend features improving UI consistency and interactivity
+- 🐛 Performed debugging and assisted in deployment via GitHub and Netlify
+- 📋 Followed structured workflow: Requirements → Design → Testing → Deployment
 
 </details>
 
 <details>
-<summary><strong>🏢 ProFuture Tech Solutions Pvt Ltd — Dashboard Development Intern &nbsp;|&nbsp; Jun – Jul 2024 &nbsp;|&nbsp; India</strong></summary>
-
+<summary><b>📊 ProFuture Tech Solutions Pvt Ltd — Dashboard Development Intern &nbsp;|&nbsp; Jun – Jul 2024</b></summary>
 <br/>
 
 > ![UI/UX](https://img.shields.io/badge/UI%20Improvements-6C63FF?style=flat-square&logoColor=white) ![Mobile Dev](https://img.shields.io/badge/Mobile%20App%20Dev-38BDAE?style=flat-square&logoColor=white) ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=flat-square&logoColor=white)
 
-- Integrated dashboard features and contributed to UI improvements for a mobile application.
-- Participated in requirement collection, module planning, feature development, and testing phases.
-- Gained hands-on experience with real-time project delivery processes and teamwork in a professional environment.
-- Supported module development and functional testing activities across the project lifecycle.
+- 📊 Integrated dashboard features and improved UI for a mobile application
+- 🔄 Participated in requirement collection, module planning, and feature development
+- 🤝 Gained real-time project experience and professional teamwork skills
+- 🧪 Supported functional testing and deployment across the project lifecycle
 
 </details>
 
@@ -139,10 +153,10 @@ public class Ranushasri {
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| [🎤 Mock Interview App](https://base44.com) | HTML · CSS · JS · AI APIs | AI-based question generation, real-time timer & feedback system; improved UX and frontend logic |
-| [🌐 Portfolio Website](https://netlify.app) | HTML · CSS · JavaScript | Fully responsive personal site with About, Projects, Education & Contact sections; deployed on Netlify |
+| 🖥️ Project | 🛠️ Stack | ✨ Highlights |
+|:---:|:---:|:---|
+| [🎤 Mock Interview App](https://base44.com) | HTML · CSS · JS · AI APIs | AI question generation · Real-time timer · Smart feedback system |
+| [🌐 Portfolio Website](https://netlify.app) | HTML · CSS · JavaScript | Fully responsive · Multi-section layout · Live on Netlify |
 
 </div>
 
@@ -153,8 +167,8 @@ public class Ranushasri {
 <div align="center">
 
 | 🏆 | Achievement | Details |
-|---|---|---|
-| 📝 | **TCS iON NQT — National Qualifier** | Scored **60.09%** overall across Numerical, Verbal & Reasoning Ability · Dec 2025 |
+|:---:|:---|:---|
+| 📝 | **TCS iON NQT — National Qualifier Test** | Scored **60.09%** · Numerical · Verbal · Reasoning · Dec 2025 |
 
 </div>
 
@@ -164,9 +178,9 @@ public class Ranushasri {
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| BE – Computer Science & Engineering | Bharathiyar Institute of Engineering for Women, Anna University | 2022 – Present | GPA: 7.59 / 10 |
+| 📚 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
+|:---:|:---|:---:|:---:|
+| BE – Computer Science & Engineering | Bharathiyar Institute of Engineering for Women, Anna University | 2022 – Present | GPA: 7.59/10 |
 | Class 12th | State Board | 2022 | 65% |
 | Class 10th | State Board | 2020 | 77% |
 
@@ -177,16 +191,31 @@ public class Ranushasri {
 ## 🌱 Currently Learning
 
 ```
-🧱 React.js        → Components, Hooks, State Management, React Router
-🌐 Spring Boot     → REST APIs, MVC Architecture, Spring Security
-📡 API Development → REST Principles, Postman Testing, JSON Handling
-🧠 DSA             → Arrays, Strings, Recursion, Sorting Algorithms (Java)
+⚛️  React.js        →  Components · Hooks · State Management · React Router
+🍃  Spring Boot     →  REST APIs · MVC Architecture · Spring Security
+📡  API Development →  REST Principles · Postman Testing · JSON Handling
+🧠  DSA             →  Arrays · Strings · Recursion · Sorting (Java)
 ```
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranushasri-kv&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranushasri-kv)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranushasri-kv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDAE?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+<div align="center">
+
+### 💬 *"Build. Break. Fix. Repeat."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
